@@ -1,8 +1,9 @@
 # Attendances-management-application-using-java-swing-
-this is made for college mini project. It is an attendance management application code created in intelij idle  by robin kumar
-Note:- if you try to run this program in your computer if might throw some error that path is not fund 
-so for correction tthis error you should change the loadinng and saving address of the file.
+This is made for college java project. It is an attendance management application code created in intelij idle  by Reyan Khan.
+Note:- if you try to run this program in your computer if might throw an error that "path is not fund"
+so for correction this error you should change the loading and saving address of the file.
 
+The application has the following design :
 ![image](https://github.com/RobinKumar5986/Attendance-Management-System/assets/72180986/33562f5d-b5e4-4f8f-b324-ea2755fa62a0)
 ![image](https://github.com/RobinKumar5986/Attendance-Management-System/assets/72180986/21fc6bdc-d6df-462b-99c0-2cdf422176c9)
 ![image](https://github.com/RobinKumar5986/Attendance-Management-System/assets/72180986/a6381a0d-7a9d-47d3-aaad-901dfc3aedc6)
@@ -13,5 +14,3 @@ so for correction tthis error you should change the loadinng and saving address 
 ![image](https://github.com/RobinKumar5986/Attendance-Management-System/assets/72180986/07f64d4b-702e-4582-8f19-9b50d6e7c48b)
 ![image](https://github.com/RobinKumar5986/Attendance-Management-System/assets/72180986/7bb4b109-1dac-4d0a-8800-5682d61a4fd6)
 
-
-Thank You...!!!
